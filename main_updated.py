@@ -159,8 +159,8 @@ async def dm_handler(event):
 GROUP_MESSAGES = [
     "Hello koi merii chuttt dekhegaaa free me😘😘",
     "koi marlo meri thukai krdo💦!",
-    "koi mera channel join karega to usko me bubu dikhaungi",
-    "dildo ghusaaa rahi hunn dekhne ke liye dmm kroo",
+    "koi meri chaddi faaddd do bubu dikhaungi",
+    "dildoo ghusaaa rahi hunn dekhne ke liye dmmm kroo",
 ]
 group_message_index = 0
 
